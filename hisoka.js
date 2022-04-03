@@ -812,7 +812,9 @@ https://github.com/DikaArdnt/Hisoka-Morou
 
 🌱 Recode By : ZyyXd
 
-Sc? Beli Aj banh Murah Kok:v`
+Sc? Beli Aj banh Murah Kok:v
+
+Owner : wa.me/6285924761802?text=Bg+Gw+Mau+Beli+script+Bot+Lu+Dong+🤤`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Instagram Creator',
@@ -3369,8 +3371,8 @@ case 'sewa': case 'sewabot': {
 ┃⬡ TF - SEND BUKTI - BOT JOIN
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃⬣━ *PAYMENT* :
-┃ GOPAY : 62859431-0485
-┃ DANA : 62859431-0485
+┃ GOPAY : 628594310485
+┃ DANA : 628594310485
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 _Bukan Bot_ *_Wibusoft_*👍🏻`
@@ -3424,7 +3426,7 @@ case 'groupmenu': case 'menugroup': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3487,7 +3489,7 @@ case 'downloadmenu': case 'menudownload': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3544,7 +3546,7 @@ case 'searchmenu': case 'menusearch': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3636,7 +3638,7 @@ case 'randomimagemenu': case 'menurandomimage': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3741,7 +3743,7 @@ case 'wibumenu': case 'menuwibu': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3803,7 +3805,7 @@ case 'asupanmenu': case 'menuasupan': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3881,7 +3883,7 @@ case 'randomtextmenu': case 'menurandomtext': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3946,7 +3948,7 @@ case 'randommenu': case 'menurandom': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -3996,7 +3998,7 @@ case 'commentmenu': case 'menucomment': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4052,7 +4054,7 @@ case 'sertifikatmenu': case 'menusertifikat': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4178,7 +4180,7 @@ case 'textpromenu': case 'menutextpro': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4252,7 +4254,7 @@ case 'photooxymenu': case 'menuphotooxy': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4348,7 +4350,7 @@ case 'photomakermenu': case 'menuphotomaker': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4429,7 +4431,7 @@ case 'stickermenu': case 'stikermenu': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4527,7 +4529,7 @@ case 'ephotomenu': case 'menuephoto': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4589,7 +4591,7 @@ case 'funmenu': case 'menufun': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4666,7 +4668,7 @@ case 'primbonmenu': case 'menuprimbon': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4729,7 +4731,7 @@ case 'convertmenu': case 'menuconvert': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4785,7 +4787,7 @@ case 'mainmenu': case 'menumain': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4841,7 +4843,7 @@ case 'databasemenu': case 'menudatabase': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4894,7 +4896,7 @@ case 'anonymousmenu': case 'menuanonymous': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -4958,7 +4960,7 @@ case 'islamicmenu': case 'menuislamic': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -5017,7 +5019,7 @@ case 'voicemenu': case 'menuvoice': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -5069,7 +5071,7 @@ case 'stalkmenu': case 'menustalk': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -5126,7 +5128,7 @@ case 'ownermenu': case 'menuowner': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
@@ -5930,7 +5932,7 @@ break
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: 'Instagram Creator',
                                     url: global.myweb
                                 }
                             }, {
